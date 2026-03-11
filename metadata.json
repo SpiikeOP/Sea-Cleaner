@@ -1,0 +1,5 @@
+{
+  "name": "Ocean Guardian",
+  "description": "A multiplayer arcade survival game where players control eco-boats to clean ocean garbage while avoiding hazards.",
+  "requestFramePermissions": []
+}
